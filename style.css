@@ -8,3 +8,9 @@ h1 {
 p {
   color: #36486b;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50;
+}
